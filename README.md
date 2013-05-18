@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## CRAWDESK
 
 CRAWDESK is being developed as part of a lecture course on WEB API's
@@ -51,3 +52,7 @@ http://creativecommons.org/licenses/by/3.0/
 
 
  
+=======
+CV_Assignment
+=============
+>>>>>>> 1a41e7cd458bfb829740b6bc1c4eeae5a8f74ac1
